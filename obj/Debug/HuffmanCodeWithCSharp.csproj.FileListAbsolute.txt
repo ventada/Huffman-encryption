@@ -1,0 +1,12 @@
+C:\Users\Reza\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe.config
+C:\Users\Reza\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe
+C:\Users\Reza\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.pdb
+C:\Users\Reza\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.exe
+C:\Users\Reza\Desktop\Huffman-Code-CSharp-master\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.pdb
+C:\Users\Reza\Desktop\Huffman-Code-CSharp\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe.config
+C:\Users\Reza\Desktop\Huffman-Code-CSharp\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.exe
+C:\Users\Reza\Desktop\Huffman-Code-CSharp\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.pdb
+C:\Users\Reza\Desktop\Huffman-Code-CSharp\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.exe
+C:\Users\Reza\Desktop\Huffman-Code-CSharp\HuffmanCodeWithCSharp\bin\Debug\HuffmanCodeWithCSharp.pdb
+C:\Users\Reza\Desktop\Huffman-Code-CSharp\HuffmanCodeWithCSharp\obj\Debug\HuffmanCodeWithCSharp.csprojResolveAssemblyReference.cache
